@@ -3,6 +3,7 @@ Here's all notable changes and commits to both the configuration repo and the ba
 
 Many thanks to all those who have submitted issues and pull requests to make this firmware better!
 ## Config repo
+2/16/2025 Trigger the build
 
 2/9/2025 - Minor changes to the local build process to improve local building experience, Remove preprocessor commands in keymap file [#643](https://github.com/KinesisCorporation/Adv360-Pro-ZMK/pull/643)
 
